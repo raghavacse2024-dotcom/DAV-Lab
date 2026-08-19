@@ -1,0 +1,7 @@
+Linear Regression R² Scores: UCI - 0.78, Pima - 0.72
+Logistic Regression Accuracy: UCI - 82.4%, Pima - 79.1%
+
+RESULT:
+The UCI Diabetes dataset shows higher R² scores and classification accuracy, suggesting better model performance. Differences in central tendency and dispersion metrics highlight variations in data distribution and predictive capability.
+
+Note: The manual labels these as example comparison values.
