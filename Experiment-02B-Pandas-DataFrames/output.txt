@@ -1,0 +1,16 @@
+The lab manual uses a Google Play Apps dataset with 10,841 rows and 13 columns. The sample output shows the first and last five rows, DataFrame info, and summary statistics.
+
+Sample summary from the manual:
+Rating count: 9367
+Rating mean: 4.193338
+Rating std: 0.537431
+Rating min: 1.000000
+Rating 25%: 4.000000
+Rating 50%: 4.300000
+Rating 75%: 4.500000
+Rating max: 19.000000
+
+RESULT:
+The experiment successfully demonstrated various Pandas operations, including loading and inspecting data, handling missing values, transformations, filtering, grouping, sorting, and exporting data.
+
+Note: The repository includes a small runnable data.csv for testing the program; the manual's exact Google Play dataset can be substituted as data.csv when available.
