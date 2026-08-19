@@ -1,0 +1,8 @@
+UCI Diabetes Dataset - Linear Regression Results:
+R² Score: -0.0566, MSE: 372.0488, MAE: 16.2474
+
+Pima Indians Diabetes Dataset - Linear Regression Results:
+R² Score: 0.0066, MSE: 243.8358, MAE: 13.3069
+
+RESULT:
+The Linear Regression Model establishes relationships between independent variables and the target variable. R² Score, MSE, and MAE indicate model performance, with differences between the two datasets highlighting variations in data patterns.
