@@ -1,0 +1,6 @@
+Z-Statistic: 10.3769
+P-Value: 0.0000
+Reject the null hypothesis: The mean Glucose level is significantly different from 100.
+
+RESULT:
+The Z-test helps determine whether the mean Glucose level in the UCI Diabetes dataset is significantly different from 100. At the 0.05 significance level, the null hypothesis is rejected.
