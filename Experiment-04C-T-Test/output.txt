@@ -1,0 +1,8 @@
+T-test Results:
+T-statistic  P-value
+Glucose       0.153113  0.878467
+BloodPressure 0.327451  0.743675
+BMI          -1.420795  0.156973
+
+RESULT:
+These are the sample values shown in the lab manual. The manual's written result states that the T-test shows a significant difference in Blood Pressure while Glucose and BMI exhibit no significant variation, although the displayed BloodPressure p-value is 0.743675 (> 0.05).
