@@ -1,0 +1,8 @@
+UCI Diabetes Dataset - Logistic Regression Results:
+Accuracy: 0.3000, Precision: 0.3333, Recall: 0.0769, F1 Score: 0.1250
+
+Pima Indians Diabetes Dataset - Logistic Regression Results:
+Accuracy: 0.4000, Precision: 0.4444, Recall: 0.3636, F1 Score: 0.4000
+
+RESULT:
+The Logistic Regression Model predicts diabetes presence. Accuracy, precision, recall, and F1-score indicate model performance, highlighting differences in classification ability between the two datasets.
