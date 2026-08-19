@@ -1,0 +1,31 @@
+The lab manual demonstrates reading:
+- Google Play app data from CSV
+- Product/quantity data from Excel
+- Country/region data from a web CSV URL
+
+Sample rows shown in the manual include:
+
+App                         Category        Rating
+Photo Editor & Candy...     ART_AND_DESIGN  4.1
+Coloring book moana         ART_AND_DESIGN  3.9
+U Launcher Lite...         ART_AND_DESIGN  4.7
+Sketch - Draw & Paint       ART_AND_DESIGN  4.5
+Pixel Draw - Number Art...  ART_AND_DESIGN  4.3
+
+Excel sample:
+Product       Price  Quantity
+Laptop        1000   5
+Smartphone     800   8
+Tablet         500  10
+Headphones     100  15
+
+Web sample:
+Country       Region
+Algeria       AFRICA
+Angola        AFRICA
+Benin         AFRICA
+Botswana      AFRICA
+Burkina Faso  AFRICA
+
+RESULT:
+The experiment successfully demonstrated reading data from text files, Excel spreadsheets, and web-based sources using Pandas.
