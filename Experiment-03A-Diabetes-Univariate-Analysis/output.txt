@@ -1,0 +1,13 @@
+UCI Diabetes Dataset Statistics:
+Glucose Mean 137.360000, Median 145.000000, Mode 111.000000, Variance 1296.212525, Standard Deviation 36.002952, Skewness -0.108805, Kurtosis -1.207990
+BloodPressure Mean 82.920000, Median 82.500000, Mode 63.000000, Variance 375.710707, Standard Deviation 19.383258, Skewness 0.103961, Kurtosis -1.109669
+SkinThickness Mean 29.190000, Median 30.000000, Mode 39.000000, Variance 149.226162, Standard Deviation 12.215816, Skewness -0.015351, Kurtosis -1.253625
+Insulin Mean 146.480000, Median 142.000000, Mode 290.000000, Variance 8638.433939, Standard Deviation 92.943176, Skewness 0.059713, Kurtosis -1.328102
+BMI Mean 30.990932, Median 30.298310, Mode 18.528511, Variance 61.552668, Standard Deviation 7.845551, Skewness 0.103161, Kurtosis -1.201466
+DiabetesPedigreeFunction Mean 1.361102, Median 1.235436, Mode 0.103784, Variance 0.446842, Standard Deviation 0.668462, Skewness 0.069207, Kurtosis -1.009261
+Age Mean 52.860000, Median 58.000000, Mode 70.000000, Variance 317.778182, Standard Deviation 17.826334, Skewness -0.299535, Kurtosis -1.232924
+
+Pima Indians sample statistics are included in the lab manual and depend on the supplied dataset.
+
+RESULT:
+The univariate analysis reveals differences in central tendency, dispersion, and distribution between the UCI Diabetes and Pima Indians Diabetes datasets.
