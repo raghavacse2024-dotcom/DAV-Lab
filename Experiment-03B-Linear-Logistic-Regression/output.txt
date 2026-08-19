@@ -1,0 +1,10 @@
+UCI Diabetes Dataset:
+Linear Regression (Predicting BMI using Glucose): R² Score: 0.0226
+Logistic Regression Accuracy Score: 0.2500
+
+Pima Indians Diabetes Dataset:
+Linear Regression (Predicting BMI using Glucose): R² Score: 0.0048
+Logistic Regression Accuracy Score: 0.4000
+
+RESULT:
+Linear Regression reveals the relationship between Glucose Level and BMI, while Logistic Regression predicts Diabetes Presence with varying accuracy. Differences in R² and accuracy scores indicate dataset variations.
