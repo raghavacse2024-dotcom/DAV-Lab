@@ -1,0 +1,22 @@
+Basic Information:
+<class 'pandas.core.frame.DataFrame'>
+RangeIndex: 150 entries, 0 to 149
+Data columns (total 5 columns)
+
+Summary Statistics:
+sepal length mean: 5.843333
+sepal width mean: 3.057333
+petal length mean: 3.758000
+petal width mean: 1.199333
+
+Species Count:
+setosa 50
+versicolor 50
+virginica 50
+
+The manual also shows feature-distribution histograms, a sepal-length boxplot, and a pairplot.
+
+RESULT:
+The experiment successfully demonstrated descriptive analytics on the Iris dataset using Pandas and Seaborn, providing insights into feature distributions and species differentiation.
+
+Note: This repository copy contains a compact runnable Iris CSV for demonstration; the full 150-row manual dataset should be used for exact reproduction of the manual's statistics and plots.
