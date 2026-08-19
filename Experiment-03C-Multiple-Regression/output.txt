@@ -1,0 +1,5 @@
+UCI Diabetes Dataset - Multiple Regression R² Score: -0.0028
+Pima Indians Diabetes Dataset - Multiple Regression R² Score: -0.0904
+
+RESULT:
+Multiple Regression analysis predicts BMI using Glucose, Blood Pressure, and Age. Differences in R² scores indicate variations in data distribution and model performance across datasets.
