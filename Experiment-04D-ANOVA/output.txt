@@ -1,0 +1,8 @@
+ANOVA Results:
+F-statistic  P-value
+Glucose        0.023444  0.878465
+BloodPressure  0.107224  0.743673
+BMI            2.018658  0.156949
+
+RESULT:
+These are the sample values shown in the lab manual. The manual's written result states that ANOVA shows significant differences in Blood Pressure and BMI, while Glucose levels do not show a major variation; the displayed p-values themselves are above 0.05.
