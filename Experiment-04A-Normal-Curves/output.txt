@@ -1,0 +1,5 @@
+OUTPUT:
+Normal Curve - Glucose and Normal Curve - BMI plots are generated.
+
+RESULT:
+The normal curves show the distribution of Glucose and BMI, indicating data spread and skewness.
